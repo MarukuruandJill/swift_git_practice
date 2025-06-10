@@ -15,8 +15,8 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Button("Button"){
-                
             }
+            Text("Hello, SwiftUI!")
         }
         .padding()
     }
