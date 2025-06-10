@@ -17,6 +17,7 @@ struct ContentView: View {
             Button("Button"){
             }
             Text("Hello, SwiftUI!")
+            Text("Hello")
         }
         .padding()
     }
